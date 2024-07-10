@@ -1,0 +1,45 @@
+/* nav style */
+
+body{
+   margin:20px 200px;
+   width: 1200px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.nav-button{
+    padding: 5px 12px;
+    border-radius: 5px;
+}
+
+.banner{
+     
+    
+    
+
+}
+.img-size{
+    width: 240px;
+    height: 240px;
+    padding: 26px 599px 0px 500px;
+}
+.text-align{
+    text-align: center;
+}
+.banner-button{
+    margin-left: 560px;
+    padding: 10px 14px;
+    background-color: black;
+    color: white;
+    font-weight: 800px;
+    border-radius: 10px;
+}
