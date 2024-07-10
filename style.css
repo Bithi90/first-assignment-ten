@@ -21,12 +21,7 @@ nav{
     border-radius: 5px;
 }
 
-.banner{
-     
-    
-    
-
-}
+ 
 .img-size{
     width: 240px;
     height: 240px;
@@ -42,4 +37,25 @@ nav{
     color: white;
     font-weight: 800px;
     border-radius: 10px;
+} 
+.banner-bg{
+    background-image:url('/assets/Hero-bg.png');
+    height: 550px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.second-section{
+  margin-top: 150px;
+}
+
+.second-description{
+ text-align: left;
+ 
+}
+.text-style{
+    font-size: 28px;
+    font-weight: 900px;
 }
