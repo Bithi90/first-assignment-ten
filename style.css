@@ -59,3 +59,21 @@ nav{
     font-size: 28px;
     font-weight: 900px;
 }
+
+.third-section{
+  margin: 100px 100px;
+}
+
+.display-flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon-size{
+    height: 50px;
+    width: 50px;
+}
+
+.marzin-four{
+ margin-top: 80px;
+}
